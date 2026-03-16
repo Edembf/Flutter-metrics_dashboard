@@ -1,5 +1,9 @@
 # metrics_dashboard
 
+une application de tableau de bord de métriques en Flutter. Cette application affichera des visualisations de données comme des graphiques linéaires, des graphiques à barres et des graphiques circulaires en utilisant le package fl_chart et récupérera des données en utilisant le package http.
+
+
+
 A new Flutter project.
 
 ## Getting Started
